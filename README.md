@@ -397,9 +397,3 @@ Python, OpenCV, YOLOv8, computer vision, image processing, dataset labeling, rea
     </td>
   </tr>
 </table>
-
----
-
-<p align="center">
-  <sub>This portfolio reflects my journey of turning business context into structured systems, data insights, and practical AI-enabled solutions.</sub>
-</p>
