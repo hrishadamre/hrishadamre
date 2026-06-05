@@ -20,7 +20,7 @@
 
 ---
 
-## Professional Snapshot
+## Data to Decisions
 
 I am a Master’s in Information Systems student at the **Robert H. Smith School of Business, University of Maryland**, focused on building a career at the intersection of **business analysis, data analytics, machine learning, and AI-enabled product workflows**.
 
