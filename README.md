@@ -1,7 +1,7 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:0f172a,100:1e293b&text=Hrishad%20Amre&fontColor=ffffff&fontSize=38&fontAlignY=42&desc=Business%20Analysis%20%7C%20Data%20Analytics%20%7C%20Machine%20Learning%20%7C%20AI%20Product%20Thinking&descAlignY=72&descSize=15" /></p>
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3600&pause=900&color=CBD5E1&center=true&vCenter=true&width=900&lines=Building+the+bridge+between+business+problems%2C+data%2C+and+AI-enabled+solutions.;I+translate+requirements+into+systems%2C+models%2C+dashboards%2C+and+decision-support+workflows.;Focused+on+practical+analytics%2C+machine+learning%2C+and+AI+products+that+create+business+value." alt="Typing SVG" /></p>
 <p align="center"><a href="https://www.linkedin.com/in/hrishadamre/"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-1E3A5F?style=for-the-badge&logo=linkedin&logoColor=E0F2FE&labelColor=0F172A" /></a> <a href="mailto:hrishad@umd.edu"><img src="https://img.shields.io/badge/Email-hrishad%40umd.edu-1E3A5F?style=for-the-badge&logo=gmail&logoColor=E0F2FE&labelColor=0F172A" /></a> <a href="https://github.com/hrishadamre"><img src="https://img.shields.io/badge/GitHub-hrishadamre-1E3A5F?style=for-the-badge&logo=github&logoColor=E0F2FE&labelColor=0F172A" /></a></p>
-<hr>
+<br><br>
 <h2>Data to Decisions</h2>
 <p>I am a Master’s in Information Systems student at the <b>Robert H. Smith School of Business, University of Maryland</b>, focused on building a career at the intersection of <b>business analysis, data analytics, machine learning, and AI-enabled product workflows</b>.</p>
 <p>My strength is not only writing code or building models. It is taking an unclear business problem, breaking it into structured requirements, designing the data and system flow, building the technical solution, and communicating the result in a way that supports decisions.</p>
@@ -10,7 +10,7 @@
 <tr><td><b>How I work</b></td><td>I connect problem framing, requirements, data, implementation, validation, and business impact.</td></tr>
 <tr><td><b>Career direction</b></td><td>Data Analyst, Business Analyst, Product Analyst, Data Science, and AI Product-focused roles.</td></tr>
 </table>
-<hr>
+<br><br>
 <h2>Current Focus</h2>
 <table>
 <tr>
@@ -22,7 +22,7 @@
 <td width="50%"><h3><img src="https://api.iconify.design/mdi/trending-up.svg?color=%2394A3B8&width=20" alt="Grow icon" /> Grow</h3>Strengthening Python, SQL, predictive analytics, stakeholder communication, and product thinking.</td>
 </tr>
 </table>
-<hr>
+<br><br>
 <h2>Skill Map</h2>
 <table>
 <tr><td><b>Analytics & Machine Learning</b></td><td>Python · Pandas · NumPy · Scikit-learn · XGBoost · EDA · Feature Engineering · Logistic Regression · Decision Trees · Random Forest · kNN · TF-IDF · SVD · AUC/ROC · Model Evaluation</td></tr>
@@ -32,7 +32,7 @@
 <tr><td><b>Tools & Workflow</b></td><td>Git · GitHub · VS Code · Postman · Jira · Google Colab · Jupyter · Project Libre · MS Word · MS PowerPoint</td></tr>
 <tr><td><b>Business & Product Skills</b></td><td>Requirements Gathering · User Stories · Acceptance Criteria · Process Flows · ERDs · DFDs · CRUD Matrix · Documentation · Work Breakdown Structure · Strategy Building</td></tr>
 </table>
-<hr>
+<br><br>
 <h2>Featured Work</h2>
 <table>
 <tr><th>Project</th><th>Focus Area</th><th>Business / Technical Value</th><th>Skills Used</th></tr>
@@ -43,7 +43,7 @@
 <tr><td><b>SSAA Construction Scheduling Platform</b></td><td>Business Analysis, System Design</td><td>Led systems analysis, client requirement translation, data modeling, and MVP workflow planning for a construction workforce scheduling platform.</td><td>Requirements, ERD, DFD, CRUD Matrix, Workflow Design</td></tr>
 <tr><td><b>Drone-Based Human Drowning Detection</b></td><td>Computer Vision, Python</td><td>Developed a drone-based detection workflow to identify swimmer distress with 93% accuracy.</td><td>Python, OpenCV, YOLOv8, Image Processing</td></tr>
 </table>
-<hr>
+<br><br>
 <h2>Project Highlights</h2>
 <details open>
 <summary><b>TriageIQ — AI-Powered Support Ticket Triage System</b></summary>
@@ -170,13 +170,14 @@ Business analysis, requirements gathering, ERD, DFD, CRUD matrix, system design,
 <b>Tools and concepts</b><br>
 Python, OpenCV, YOLOv8, computer vision, image processing, dataset labeling, real-time detection
 </details>
-<hr>
+<br><br>
 <h2>Experience</h2>
 <table>
 <tr>
 <td>
-<h3>Teaching Assistant — Data Mining & Predictive Analytics</h3>
-<p><img src="assets/logos/umd-smith.png" width="26" align="center" alt="University of Maryland Smith School logo" /> <b>University of Maryland, Robert H. Smith School of Business</b><br><sub>Summer 2026 – Present</sub></p>
+<table>
+<tr><td width="150" align="center" valign="middle"><img src="assets/logos/Smith_School_Logo.jpg" width="90%" alt="University of Maryland Smith School logo" /></td><td width="650" valign="middle"><h3>Teaching Assistant — Data Mining & Predictive Analytics</h3><b>University of Maryland, Robert H. Smith School of Business</b><br><sub>Summer 2026 – Present</sub></td></tr>
+</table>
 <p>Supporting a graduate-level course focused on predictive modeling, statistical learning, classification, regression, model evaluation, and data-driven decision-making using Python.</p>
 <p>This role strengthens my ability to explain analytical concepts clearly, support structured learning, and connect technical methods with business decision-making. It is closely aligned with my career goal of working at the intersection of data analytics, AI, business strategy, and product thinking.</p>
 <b>Contributions:</b>
@@ -191,8 +192,9 @@ Python, OpenCV, YOLOv8, computer vision, image processing, dataset labeling, rea
 </tr>
 <tr>
 <td>
-<h3>Project Engineer</h3>
-<p><img src="assets/logos/sierra-circuits.png" width="26" align="center" alt="Sierra Circuits logo" /> <b>Sierra Circuits, Inc.</b> · Goa, India<br><sub>Aug 2023 – Aug 2025</sub></p>
+<table>
+<tr><td width="150" align="center" valign="middle"><img src="assets/logos/Sierra_Circuits_Logo.jpg" width="90%" alt="Sierra Circuits logo" /></td><td width="650" valign="middle"><h3>Project Engineer</h3><b>Sierra Circuits, Inc.</b> · Goa, India<br><sub>Aug 2023 – Aug 2025</sub></td></tr>
+</table>
 <p>Worked as a project engineer on calculator products, internal applications, database workflows, and production-ready business tools for a PCB manufacturing and assembly company.</p>
 <b>Contributions:</b>
 <ul>
@@ -207,21 +209,23 @@ Python, OpenCV, YOLOv8, computer vision, image processing, dataset labeling, rea
 </td>
 </tr>
 </table>
-<hr>
+<br><br>
 <h2>Leadership & Involvement</h2>
 <table>
 <tr>
 <td>
-<h3>Team Lead — Impact Consulting Fellowship</h3>
-<p><img src="assets/logos/umd-smith.png" width="26" align="center" alt="University of Maryland Smith School logo" /> <b>Center for Social Value Creation, Robert H. Smith School of Business</b><br><sub>Summer 2026</sub></p>
+<table>
+<tr><td width="150" align="center" valign="middle"><img src="assets/logos/Smith_School_Logo.jpg" width="90%" alt="University of Maryland Smith School logo" /></td><td width="650" valign="middle"><h3>Team Lead — Impact Consulting Fellowship</h3><b>Center for Social Value Creation, Robert H. Smith School of Business</b><br><sub>Summer 2026</sub></td></tr>
+</table>
 <p>Selected as a Team Lead for the Summer 2026 Impact Consulting Fellowship, leading a student consulting team for the <b>Town of Cheverly</b>.</p>
 <p>In this role, I guide project planning, client communication, research, analysis, and solution development for an impact-focused consulting engagement. This experience strengthens my consulting, stakeholder management, structured problem-solving, and leadership skills in a real client-facing environment.</p>
 </td>
 </tr>
 <tr>
 <td>
-<h3>SMSA Ambassador of Administration</h3>
-<p><img src="assets/logos/umd-smith.png" width="26" align="center" alt="University of Maryland Smith School logo" /> <b>Robert H. Smith School of Business</b><br><sub>2026 – Present</sub></p>
+<table>
+<tr><td width="150" align="center" valign="middle"><img src="assets/logos/Smith_School_Logo.jpg" width="90%" alt="University of Maryland Smith School logo" /></td><td width="650" valign="middle"><h3>SMSA Ambassador of Administration</h3><b>Robert H. Smith School of Business</b><br><sub>2026 – Present</sub></td></tr>
+</table>
 <p>Support student engagement, networking events, and collaboration across graduate business programs at the Smith School.</p>
 <p>This role allows me to contribute to the student community while strengthening event planning, cross-functional coordination, communication, and peer leadership skills in a diverse graduate business environment.</p>
 </td>
@@ -235,24 +239,27 @@ Python, OpenCV, YOLOv8, computer vision, image processing, dataset labeling, rea
 </td>
 </tr>
 </table>
-<hr>
+<br><br>
 <h2>Education</h2>
 <table>
 <tr>
 <td>
-<h3>Master of Science in Information Systems</h3>
-<p><img src="assets/logos/umd-smith.png" width="26" align="center" alt="University of Maryland Smith School logo" /> <b>University of Maryland, Robert H. Smith School of Business</b><br><sub>Aug 2025 – Dec 2026</sub></p>
+<table>
+<tr><td width="150" align="center" valign="middle"><img src="assets/logos/Smith_School_Logo.jpg" width="90%" alt="University of Maryland Smith School logo" /></td><td width="650" valign="middle"><h3>Master of Science in Information Systems</h3><b>University of Maryland, Robert H. Smith School of Business</b><br><sub>Aug 2025 – Dec 2026</sub></td></tr>
+</table>
 <p><b>Relevant focus:</b> Data mining, predictive analytics, business analytics, database systems, AI-enabled decision-making, and product-oriented technology solutions.</p>
 <p>My graduate work supports the kind of projects I am building across analytics, business systems, machine learning, and AI-assisted product workflows.</p>
 </td>
 </tr>
 <tr>
 <td>
-<h3>Bachelor of Engineering in Electronics and Telecommunications</h3>
-<p><img src="assets/logos/goa-college-engineering.png" width="26" align="center" alt="Goa College of Engineering logo" /> <b>Goa College of Engineering</b><br><sub>Jul 2019 – Jul 2023</sub></p>
+<table>
+<tr><td width="150" align="center" valign="middle"><img src="assets/logos/Goa_College_of_Engineering_logo.jpg" width="90%" alt="Goa College of Engineering logo" /></td><td width="650" valign="middle"><h3>Bachelor of Engineering in Electronics and Telecommunications</h3><b>Goa College of Engineering</b><br><sub>Aug 2019 – Jul 2023</sub></td></tr>
+</table>
 <p><b>Relevant foundation:</b> Programming, databases, electronics systems, signal processing, image processing, and engineering problem-solving.</p>
 <p>This foundation helped me build technical ownership across hardware-software projects, backend systems, and computer vision applications.</p>
 </td>
 </tr>
 </table>
-<hr>
+<br><br>
+<p align="center"><sub>I’m continuously building work that connects business understanding, analytical thinking, and practical AI-driven execution.</sub></p>
