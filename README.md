@@ -56,7 +56,7 @@
 <table>
 <tr><th>Project</th><th>Focus Area</th><th>Business / Technical Value</th><th>Skills Used</th></tr>
 <tr><td><b>Airbnb Rating Prediction</b></td><td>Machine Learning, Feature Engineering</td><td>Built an end-to-end classification pipeline using 100K+ listings, 50+ engineered features, and model evaluation to predict perfect listing ratings.</td><td>Python, Pandas, Scikit-learn, XGBoost, TF-IDF, SVD</td></tr>
-<tr><td><b>Terp Protect</b></td><td>SQL, Database Design, Analytics</td><td>Designed a relational database and SQL analysis workflow to identify campus incident patterns, high-risk locations, and operational safety insights.</td><td>SQL Server, ER Modeling, Joins, Aggregations, Dashboarding</td></tr>
+<tr><td><b>Terp Protect</b></td><td>Public Safety Analytics, Database Design</td><td>Built an end-to-end platform that organizes 5,659 incident records and 1,175 arrest records into a structured database and interactive dashboard for analyzing safety patterns, reporting delays, case outcomes, arrest activity, and data quality.</td><td>Python, SQL, SQLite, Streamlit, Pandas, Plotly, ETL, Data Quality</td></tr>
 <tr><td><b>Financial Portfolio Optimization</b></td><td>Python, Finance Analytics</td><td>Built a risk-aware portfolio analytics framework using trading strategies, Monte Carlo simulation, and risk-return evaluation.</td><td>Python, Pandas, NumPy, Matplotlib, Portfolio Optimization</td></tr>
 <tr><td><b>SSAA Workforce Scheduling Platform</b></td><td>Business Analysis, System Design</td><td>Led systems analysis, client requirement translation, workflow modeling, and MVP planning for a construction workforce scheduling platform.</td><td>Requirements, ERD, DFD, CRUD Matrix, Workflow Design</td></tr>
 <tr><td><b>TriageIQ</b></td><td>AI Product, ML, NLP</td><td>Built a human-in-the-loop support ticket triage workflow for priority prediction, routing, SLA risk scoring, and response drafting.</td><td>Python, ML, NLP, Streamlit, Product Logic</td></tr>
@@ -90,24 +90,29 @@ Python, Pandas, NumPy, Scikit-learn, XGBoost, TF-IDF, SVD, feature engineering, 
 </details>
 
 <details>
-<summary><b>Terp Protect — SQL-Based Campus Crime Data Analysis</b></summary>
+<summary><b>Terp Protect — Campus Public Safety Analytics Platform</b></summary>
 <br>
-<p>Terp Protect transforms campus crime data into a structured relational database and uses SQL analysis to identify safety patterns, high-incident areas, and operational insights.</p>
+
+<p>Terp Protect transforms public UMPD incident and arrest records from 2023–2025 into a structured database and interactive dashboard for clearer campus safety analysis.</p>
+
 <b>Core work</b>
 <ul>
-<li>Designed a normalized relational schema for incidents, locations, crime categories, and case statuses.</li>
-<li>Created entity relationships, primary keys, and foreign keys to reduce redundancy.</li>
-<li>Used SQL joins, aggregations, filtering, and time-based queries for analysis.</li>
-<li>Analyzed incident frequency, location patterns, time-of-day trends, and case resolution status.</li>
+<li>Processed 5,659 incident records and 1,175 arrest records through an automated Python pipeline.</li>
+<li>Designed a normalized SQLite database with reusable SQL views and incident-to-arrest matching.</li>
+<li>Built a Streamlit dashboard covering time trends, locations, outcomes, reporting delays, arrests, and data quality.</li>
+<li>Standardized crime, location, disposition, and charge categories for consistent reporting.</li>
 </ul>
+
 <b>Impact</b>
 <ul>
-<li>Supported identification of high-risk locations and frequent incident categories.</li>
-<li>Demonstrated how structured data design can improve reporting consistency.</li>
-<li>Generated insights that could support student safety awareness and resource allocation.</li>
+<li>Improved visibility into high-activity periods, locations, and incident categories.</li>
+<li>Reduced manual analysis through a repeatable end-to-end workflow.</li>
+<li>Achieved a 99.94% primary field-check pass rate while retaining flagged records for review.</li>
 </ul>
+
 <b>Tools and concepts</b><br>
-SQL Server, relational database design, ER modeling, normalization, joins, aggregations, analytical querying
+Python, SQL, SQLite, Streamlit, Pandas, Plotly, ETL, database design, data quality, business analysis
+
 </details>
 
 <details>
