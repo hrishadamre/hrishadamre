@@ -68,33 +68,9 @@
 <h2>Project Highlights</h2>
 
 <details open>
-<summary><b>Airbnb Rating Prediction — End-to-End Machine Learning Pipeline</b></summary>
-<br>
-<p>This project predicts whether an Airbnb listing will receive a perfect rating by using structured listing attributes, host behavior, pricing, availability, and text-based features.</p>
-<b>Core work</b>
-<ul>
-<li>Processed 100K+ training listings and 12K+ test listings.</li>
-<li>Engineered 50+ structured and text-based features.</li>
-<li>Used TF-IDF and SVD to transform listing descriptions into model-ready features.</li>
-<li>Compared Logistic Regression, Decision Tree, kNN, Random Forest, and XGBoost models.</li>
-<li>Used structured validation and model evaluation to improve reliability.</li>
-</ul>
-<b>Impact</b>
-<ul>
-<li>Achieved 0.828 AUC using XGBoost.</li>
-<li>Identified rating drivers such as pricing, availability, host behavior, and listing content.</li>
-<li>Translated model outputs into decision-focused insights for host and platform optimization.</li>
-</ul>
-<b>Tools and concepts</b><br>
-Python, Pandas, NumPy, Scikit-learn, XGBoost, TF-IDF, SVD, feature engineering, classification, AUC/ROC
-</details>
-
-<details>
 <summary><b>Terp Protect — Campus Public Safety Analytics Platform</b></summary>
 <br>
-
 <p>Terp Protect transforms public UMPD incident and arrest records from 2023–2025 into a structured database and interactive dashboard for clearer campus safety analysis.</p>
-
 <b>Core work</b>
 <ul>
 <li>Processed 5,659 incident records and 1,175 arrest records through an automated Python pipeline.</li>
@@ -102,40 +78,41 @@ Python, Pandas, NumPy, Scikit-learn, XGBoost, TF-IDF, SVD, feature engineering, 
 <li>Built a Streamlit dashboard covering time trends, locations, outcomes, reporting delays, arrests, and data quality.</li>
 <li>Standardized crime, location, disposition, and charge categories for consistent reporting.</li>
 </ul>
-
 <b>Impact</b>
 <ul>
 <li>Improved visibility into high-activity periods, locations, and incident categories.</li>
 <li>Reduced manual analysis through a repeatable end-to-end workflow.</li>
 <li>Achieved a 99.94% primary field-check pass rate while retaining flagged records for review.</li>
 </ul>
-
 <b>Tools and concepts</b><br>
 Python, SQL, SQLite, Streamlit, Pandas, Plotly, ETL, database design, data quality, business analysis
-
 </details>
 
+
+
 <details>
-<summary><b>Financial Portfolio Optimization — Python Analytics</b></summary>
+<summary><b>TriageIQ — AI-Powered Support Ticket Triage</b></summary>
 <br>
-<p>This project evaluates trading strategies and constructs an optimized investment portfolio using Python, risk-return analysis, and simulation techniques.</p>
-<b>Core work</b>
+<p>TriageIQ is an AI-assisted decision-support workflow for IT and customer support teams. The system analyzes incoming support tickets and helps agents evaluate priority, routing, SLA risk, and first-response drafting.</p>
+<b>Core capabilities</b>
 <ul>
-<li>Converted historical price data into daily return series.</li>
-<li>Built Moving Average Crossover and Bollinger Band strategy logic.</li>
-<li>Created an 8-strategy portfolio across multiple instruments.</li>
-<li>Used correlation analysis, Monte Carlo simulation, and mean-variance optimization.</li>
-<li>Evaluated return, volatility, Sharpe Ratio, maximum drawdown, and beta.</li>
+<li>Predicts whether a ticket is High, Needs Review, or Normal priority.</li>
+<li>Recommends routing to the appropriate support group.</li>
+<li>Scores SLA risk using transparent business rules.</li>
+<li>Generates a first-response draft for human review.</li>
+<li>Keeps the final decision with the agent instead of fully automating sensitive actions.</li>
 </ul>
 <b>Impact</b>
 <ul>
-<li>Improved Sharpe Ratio from 1.02 to 1.22.</li>
-<li>Reduced portfolio volatility through better allocation.</li>
-<li>Demonstrated risk-aware decision-making instead of return-only evaluation.</li>
+<li>Designed a human-in-the-loop AI workflow for responsible decision support.</li>
+<li>Connected ML predictions with operational triage logic and product usability.</li>
+<li>Built a prototype to demonstrate the end-to-end support workflow.</li>
 </ul>
 <b>Tools and concepts</b><br>
-Python, Pandas, NumPy, Matplotlib, financial analytics, portfolio optimization, Monte Carlo simulation, risk analysis
+Python, machine learning, NLP, Streamlit, classification, routing logic, SLA risk scoring, AI product thinking
 </details>
+
+
 
 <details>
 <summary><b>SSAA — Workforce Scheduling Platform</b></summary>
@@ -159,27 +136,55 @@ Python, Pandas, NumPy, Matplotlib, financial analytics, portfolio optimization, 
 Business analysis, systems analysis, requirements gathering, ERD, DFD, CRUD matrix, workflow design, MVP planning, client communication
 </details>
 
-<details>
-<summary><b>TriageIQ — AI-Powered Support Ticket Triage</b></summary>
+
+
+<details >
+<summary><b>Airbnb Rating Prediction — End-to-End Machine Learning Pipeline</b></summary>
 <br>
-<p>TriageIQ is an AI-assisted decision-support workflow for IT and customer support teams. The system analyzes incoming support tickets and helps agents evaluate priority, routing, SLA risk, and first-response drafting.</p>
-<b>Core capabilities</b>
+<p>This project predicts whether an Airbnb listing will receive a perfect rating by using structured listing attributes, host behavior, pricing, availability, and text-based features.</p>
+<b>Core work</b>
 <ul>
-<li>Predicts whether a ticket is High, Needs Review, or Normal priority.</li>
-<li>Recommends routing to the appropriate support group.</li>
-<li>Scores SLA risk using transparent business rules.</li>
-<li>Generates a first-response draft for human review.</li>
-<li>Keeps the final decision with the agent instead of fully automating sensitive actions.</li>
+<li>Processed 100K+ training listings and 12K+ test listings.</li>
+<li>Engineered 50+ structured and text-based features.</li>
+<li>Used TF-IDF and SVD to transform listing descriptions into model-ready features.</li>
+<li>Compared Logistic Regression, Decision Tree, kNN, Random Forest, and XGBoost models.</li>
+<li>Used structured validation and model evaluation to improve reliability.</li>
 </ul>
 <b>Impact</b>
 <ul>
-<li>Designed a human-in-the-loop AI workflow for responsible decision support.</li>
-<li>Connected ML predictions with operational triage logic and product usability.</li>
-<li>Built a prototype to demonstrate the end-to-end support workflow.</li>
+<li>Achieved 0.828 AUC using XGBoost.</li>
+<li>Identified rating drivers such as pricing, availability, host behavior, and listing content.</li>
+<li>Translated model outputs into decision-focused insights for host and platform optimization.</li>
 </ul>
 <b>Tools and concepts</b><br>
-Python, machine learning, NLP, Streamlit, classification, routing logic, SLA risk scoring, AI product thinking
+Python, Pandas, NumPy, Scikit-learn, XGBoost, TF-IDF, SVD, feature engineering, classification, AUC/ROC
 </details>
+
+
+
+<details>
+<summary><b>Financial Portfolio Optimization — Python Analytics</b></summary>
+<br>
+<p>This project evaluates trading strategies and constructs an optimized investment portfolio using Python, risk-return analysis, and simulation techniques.</p>
+<b>Core work</b>
+<ul>
+<li>Converted historical price data into daily return series.</li>
+<li>Built Moving Average Crossover and Bollinger Band strategy logic.</li>
+<li>Created an 8-strategy portfolio across multiple instruments.</li>
+<li>Used correlation analysis, Monte Carlo simulation, and mean-variance optimization.</li>
+<li>Evaluated return, volatility, Sharpe Ratio, maximum drawdown, and beta.</li>
+</ul>
+<b>Impact</b>
+<ul>
+<li>Improved Sharpe Ratio from 1.02 to 1.22.</li>
+<li>Reduced portfolio volatility through better allocation.</li>
+<li>Demonstrated risk-aware decision-making instead of return-only evaluation.</li>
+</ul>
+<b>Tools and concepts</b><br>
+Python, Pandas, NumPy, Matplotlib, financial analytics, portfolio optimization, Monte Carlo simulation, risk analysis
+</details>
+
+
 
 <details>
 <summary><b>Drone-Based Human Drowning Detection</b></summary>
