@@ -4,8 +4,6 @@
 
 <p align="center"><a href="https://www.linkedin.com/in/hrishadamre/"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-1E3A5F?style=for-the-badge&logo=linkedin&logoColor=E0F2FE&labelColor=0F172A" /></a> <a href="mailto:hrishad@umd.edu"><img src="https://img.shields.io/badge/Email-hrishad%40umd.edu-1E3A5F?style=for-the-badge&logo=gmail&logoColor=E0F2FE&labelColor=0F172A" /></a> <a href="https://github.com/hrishadamre"><img src="https://img.shields.io/badge/GitHub-hrishadamre-1E3A5F?style=for-the-badge&logo=github&logoColor=E0F2FE&labelColor=0F172A" /></a></p>
 
-<br><br>
-
 <h2>Data to Decisions</h2>
 
 <p>I am a Master’s in Information Systems student at the <b>Robert H. Smith School of Business, University of Maryland</b>, focused on building a career at the intersection of <b>data analytics, business intelligence, machine learning, database systems, and business process analysis</b>.</p>
@@ -27,10 +25,10 @@
 <table>
 <tr>
 <td width="50%"><h3><img src="https://api.iconify.design/mdi/database-search-outline.svg?color=%2394A3B8&width=20" alt="Analyze icon" /> Analyze</h3>Working with structured and messy datasets to uncover patterns, evaluate performance, and support better business decisions.</td>
-<td width="50%"><h3><img src="https://api.iconify.design/mdi/chart-line.svg?color=%2394A3B8&width=20" alt="Build icon" /> Build</h3>Building applied projects across SQL, Python, machine learning, business intelligence, database design, and AI-assisted workflows.</td>
+<td width="50%"><h3><img src="https://api.iconify.design/mdi/chart-line.svg?color=%2394A3B8&width=20" alt="Build icon" /> Build</h3>Building applied projects across SQL, Python, Tableau, machine learning, business intelligence, database design, and AI-assisted workflows.</td>
 </tr>
 <tr>
-<td width="50%"><h3><img src="https://api.iconify.design/mdi/school-outline.svg?color=%2394A3B8&width=20" alt="Teach icon" /> Teach</h3>Supporting graduate-level instruction as a Teaching Assistant for Data Mining and Predictive Analytics.</td>
+<td width="50%"><h3><img src="https://api.iconify.design/mdi/school-outline.svg?color=%2394A3B8&width=20" alt="Teach icon" /> Teach</h3>Supporting instruction as a Teaching Assistant for Data Mining & Predictive Analytics and Introduction to Logistics & Supply Chain Management.</td>
 <td width="50%"><h3><img src="https://api.iconify.design/mdi/account-tie-outline.svg?color=%2394A3B8&width=20" alt="Lead icon" /> Lead</h3>Leading data-backed research, analysis, and stakeholder-facing work through the Impact Consulting Fellowship.</td>
 </tr>
 </table>
@@ -44,7 +42,7 @@
 <tr><td><b>Machine Learning</b></td><td>Scikit-learn · XGBoost · Logistic Regression · Decision Trees · Random Forest · kNN · Classification · Regression · AUC/ROC · Model Evaluation</td></tr>
 <tr><td><b>Data Processing</b></td><td>Pandas · NumPy · Feature Engineering · Missing Value Handling · Categorical Encoding · TF-IDF · SVD · Data Pipelines</td></tr>
 <tr><td><b>SQL & Databases</b></td><td>SQL · Joins · CTEs · Aggregations · Window Functions · SQL Server · MySQL · DBMS · ER Modeling · Normalization · Database Design</td></tr>
-<tr><td><b>Visualization & BI</b></td><td>Power BI · Matplotlib · Seaborn · Dashboard Development · Reporting · Data Storytelling · Business Intelligence</td></tr>
+<tr><td><b>Visualization & BI</b></td><td>Tableau (LOD Expressions · Parameters · Dashboard Actions · Stories) · Power BI · Matplotlib · Seaborn · Dashboard Development · Reporting · Data Storytelling · Business Intelligence</td></tr>
 <tr><td><b>Engineering & Automation</b></td><td>Java · Python · FastAPI · Spring Boot · REST APIs · API Development · Workflow Automation · Postman · Git · GitHub</td></tr>
 <tr><td><b>Business & Systems</b></td><td>Business Analysis · Requirements Gathering · User Stories · ERD · DFD · CRUD Matrix · Process Flows · MVP Planning · Technical Documentation</td></tr>
 </table>
@@ -53,14 +51,17 @@
 
 <h2>Featured Work</h2>
 
+<h2>Featured Work</h2>
+
 <table>
 <tr><th>Project</th><th>Focus Area</th><th>Business / Technical Value</th><th>Skills Used</th></tr>
-<tr><td><b>Airbnb Rating Prediction</b></td><td>Machine Learning, Feature Engineering</td><td>Built an end-to-end classification pipeline using 100K+ listings, 50+ engineered features, and model evaluation to predict perfect listing ratings.</td><td>Python, Pandas, Scikit-learn, XGBoost, TF-IDF, SVD</td></tr>
-<tr><td><b>Terp Protect</b></td><td>Public Safety Analytics, Database Design</td><td>Built an end-to-end platform that organizes 5,659 incident records and 1,175 arrest records into a structured database and interactive dashboard for analyzing safety patterns, reporting delays, case outcomes, arrest activity, and data quality.</td><td>Python, SQL, SQLite, Streamlit, Pandas, Plotly, ETL, Data Quality</td></tr>
-<tr><td><b>Financial Portfolio Optimization</b></td><td>Python, Finance Analytics</td><td>Built a risk-aware portfolio analytics framework using trading strategies, Monte Carlo simulation, and risk-return evaluation.</td><td>Python, Pandas, NumPy, Matplotlib, Portfolio Optimization</td></tr>
-<tr><td><b>SSAA Workforce Scheduling Platform</b></td><td>Business Analysis, System Design</td><td>Led systems analysis, client requirement translation, workflow modeling, and MVP planning for a construction workforce scheduling platform.</td><td>Requirements, ERD, DFD, CRUD Matrix, Workflow Design</td></tr>
-<tr><td><b>TriageIQ</b></td><td>AI Product, ML, NLP</td><td>Built a human-in-the-loop support ticket triage workflow for priority prediction, routing, SLA risk scoring, and response drafting.</td><td>Python, ML, NLP, Streamlit, Product Logic</td></tr>
-<tr><td><b>Drone-Based Human Drowning Detection</b></td><td>Computer Vision, Python</td><td>Developed a drone-based computer vision system to detect swimmer distress and support faster incident identification.</td><td>Python, OpenCV, YOLOv8, Image Processing</td></tr>
+<tr><td><b><a href="https://github.com/hrishadamre/pandemic-housing-boom-tableau-analysis">Pandemic Housing Boom</a></b></td><td>Data Visualization, BI, Storytelling</td><td>Built a three-dashboard Tableau story on 26 years of home values across 3,004 U.S. counties. It shows that 23% of counties lost value after the 2022 rate shock and that the monthly payment rose 106% while home values rose 49%.</td><td>Tableau, LOD Expressions, Parameters, Dashboard Actions, Data Storytelling</td></tr>
+<tr><td><b><a href="https://github.com/hrishadamre/airbnb-perfect-rating-prediction">Airbnb Rating Prediction</a></b></td><td>Machine Learning, Feature Engineering</td><td>Built an end-to-end classification pipeline using 100K+ listings, 50+ engineered features, and model evaluation to predict perfect listing ratings.</td><td>Python, Pandas, Scikit-learn, XGBoost, TF-IDF, SVD</td></tr>
+<tr><td><b><a href="https://github.com/hrishadamre/terp-protect-dbms-analytics-platform">Terp Protect</a></b></td><td>Public Safety Analytics, Database Design</td><td>Built an end-to-end platform that organizes 5,659 incident records and 1,175 arrest records into a structured database and interactive dashboard for analyzing safety patterns, reporting delays, case outcomes, arrest activity, and data quality.</td><td>Python, SQL, SQLite, Streamlit, Pandas, Plotly, ETL, Data Quality</td></tr>
+<tr><td><b><a href="https://github.com/hrishadamre/financial-portfolio-optimization">Financial Portfolio Optimization</a></b></td><td>Python, Finance Analytics</td><td>Built a risk-aware portfolio analytics framework using trading strategies, Monte Carlo simulation, and risk-return evaluation.</td><td>Python, Pandas, NumPy, Matplotlib, Portfolio Optimization</td></tr>
+<tr><td><b><a href="https://github.com/hrishadamre/ssaa-construction-scheduling-platform">SSAA Workforce Scheduling Platform</a></b></td><td>Business Analysis, System Design</td><td>Led systems analysis, client requirement translation, workflow modeling, and MVP planning for a construction workforce scheduling platform.</td><td>Requirements, ERD, DFD, CRUD Matrix, Workflow Design</td></tr>
+<tr><td><b><a href="https://github.com/hrishadamre/triageiq-ai-ticket-triage">TriageIQ</a></b></td><td>AI Product, ML, NLP</td><td>Built a human-in-the-loop support ticket triage workflow for priority prediction, routing, SLA risk scoring, and response drafting.</td><td>Python, ML, NLP, Streamlit, Product Logic</td></tr>
+<tr><td><b><a href="https://github.com/hrishadamre/drone-drowning-detection">Drone-Based Human Drowning Detection</a></b></td><td>Computer Vision, Python</td><td>Developed a drone-based computer vision system to detect swimmer distress and support faster incident identification.</td><td>Python, OpenCV, YOLOv8, Image Processing</td></tr>
 </table>
 
 <br><br>
@@ -68,6 +69,28 @@
 <h2>Project Highlights</h2>
 
 <details open>
+<summary><b>Pandemic Housing Boom — U.S. Home Value & Affordability Analysis (Tableau)</b></summary>
+<br>
+<p>A Tableau story on Zillow Home Value Index data for 3,004 U.S. counties (2000–2026). It traces how a broad pandemic housing boom turned into very different local outcomes after the 2022 rate shock, and what that meant for buyers.</p>
+<b>Core work</b>
+<ul>
+<li>Joined four sources (home values, county demographics, economic indicators, mortgage rates) on FIPS and year-month keys.</li>
+<li>Built 40+ calculated fields, including FIXED LOD expressions that segment counties into four post-boom market paths.</li>
+<li>Modeled the estimated monthly mortgage payment and split its increase into a price effect and a rate effect.</li>
+<li>Designed a parameter-driven tile map and a scatter-to-bar filter action, then published the story to Tableau Public.</li>
+</ul>
+<b>Impact</b>
+<ul>
+<li>Showed that 99% of counties gained in the boom, but 23% (678 counties) lost value after June 2022, including 44% of big-city counties.</li>
+<li>Found the payment on a typical home rose 106% ($582 → $1,197) while home values rose 49%, with about 45% of the increase driven by rates.</li>
+<li>Flagged 16 states plus DC where the payment tops the 30%-of-income cost-burden line.</li>
+</ul>
+<b>Tools and concepts</b><br>
+Tableau, LOD expressions, calculated fields, parameters, dashboard actions, tile maps, data storytelling, visualization design, affordability analysis
+</details>
+
+
+<details>
 <summary><b>Terp Protect — Campus Public Safety Analytics Platform</b></summary>
 <br>
 <p>Terp Protect transforms public UMPD incident and arrest records from 2023–2025 into a structured database and interactive dashboard for clearer campus safety analysis.</p>
@@ -231,7 +254,20 @@ Python, OpenCV, YOLOv8, computer vision, object detection, image processing, har
 <tr>
 <td>
 <table>
-<tr><td width="150" align="center" valign="middle"><img src="assets/logos/Smith_School_Logo.jpg" width="90%" alt="University of Maryland Smith School logo" /></td><td width="650" valign="middle"><h3>Team Lead — Impact Consulting Fellowship</h3><b>Center for Social Value Creation, Robert H. Smith School of Business</b><br><sub>Summer 2026 · College Park, Maryland</sub></td></tr>
+<tr><td width="150" align="center" valign="middle"><img src="assets/logos/Smith_School_Logo.jpg" width="90%" alt="University of Maryland Smith School logo" /></td><td width="650" valign="middle"><h3>Teaching Assistant — Introduction to Logistics & Supply Chain Management</h3><b>University of Maryland, Robert H. Smith School of Business</b><br><sub>Sep 2026 – Present · College Park, Maryland</sub></td></tr>
+</table>
+<p>Support instruction for Introduction to Logistics & Supply Chain Management, helping students work through core operations and supply chain concepts.</p>
+<b>Contributions:</b>
+<ul>
+<li>Support grading and student questions across forecasting, inventory management, transportation, sourcing, and operational-efficiency trade-offs.</li>
+<li>Reinforce course concepts through structured feedback on assignments.</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<table>
+<tr><td width="150" align="center" valign="middle"><img src="assets/logos/Smith_School_Logo.jpg" width="90%" alt="University of Maryland Smith School logo" /></td><td width="650" valign="middle"><h3>Team Lead — Impact Consulting Fellowship</h3><b>Center for Social Value Creation, Robert H. Smith School of Business</b><br><sub>Jun 2026 – Present · College Park, Maryland</sub></td></tr>
 </table>
 <p>Selected as Team Lead for a client-facing analytics and strategy project with the Town of Cheverly focused on economic development, industrial growth, and data-driven decision-making.</p>
 <b>Contributions:</b>
@@ -318,7 +354,7 @@ Python, OpenCV, YOLOv8, computer vision, object detection, image processing, har
 </table>
 <p><b>Scholarship:</b> Terrapin Scholarship Recipient</p>
 <p><b>Focus:</b> Data Analytics, Business Intelligence, Machine Learning, Database Systems, Business Process Analysis, AI for Business, and Digital Transformation.</p>
-<p><b>Relevant Coursework:</b> Data Mining and Predictive Analytics · Data Processing & Analysis in Python · Database Management Systems · Business Process Analysis · AI for Business · Digital Transformation in Business · Project Management</p>
+<p><b>Relevant Coursework:</b> Data Visualization for Business (Tableau) · Data Mining and Predictive Analytics · Data Processing & Analysis in Python · Database Management Systems · Business Process Analysis · AI for Business · Digital Transformation in Business · Project Management</p>
 <p><b>Applied Work:</b> SQL-based database design, Python analytics, predictive modeling, feature engineering, data visualization, and business decision support.</p>
 </td>
 </tr>
@@ -335,27 +371,29 @@ Python, OpenCV, YOLOv8, computer vision, object detection, image processing, har
 </table>
 
 <br><br>
-<!--
 <h2>Certifications</h2>
 
 <table>
 <tr>
+<td><b>Introduction to Tableau</b></td>
+<td>DataCamp · Sep 2026</td>
+</tr>
+<tr>
 <td><b>The Joy of Computing using Python</b></td>
-<td>NPTEL / IIT Madras</td>
+<td>NPTEL / IIT Madras · 2022</td>
 </tr>
 </table>
 
 <br><br>
--->
+
 <h2>What I’m Looking For</h2>
 
-<p>I am currently exploring opportunities where I can apply <b>data analysis, business intelligence, machine learning, SQL, Python, and systems thinking</b> to solve real business problems.</p>
+<p>I am seeking <b>full-time roles starting after December 2026</b> where I can apply <b>data analysis, business intelligence, SQL, Python, Tableau, and systems thinking</b> to solve real business problems.</p>
 
 <table>
-<tr><td><b>Target roles</b></td><td>Data Analyst · Business Analyst · Business Intelligence Analyst · Product Analyst · Data Science Intern / Analyst · AI / Analytics Product-focused roles</td></tr>
-<tr><td><b>Ideal work</b></td><td>Roles involving data analysis, dashboards, SQL, Python, predictive modeling, business insights, requirements gathering, and cross-functional problem solving.</td></tr>
+<tr><td><b>Target roles</b></td><td>Data Analyst · Business Analyst · Business Intelligence Analyst · Product Analyst · Operations Analyst</td></tr>
+<tr><td><b>Ideal work</b></td><td>Roles involving data analysis, dashboards, predictive modeling, business insights, requirements gathering, and cross-functional problem solving.</td></tr>
 </table>
 
-<br><br>
 
 <p align="center"><sub>Continuously building work that connects business understanding, analytical thinking, and practical data-driven execution.</sub></p>
